@@ -1,0 +1,19 @@
+.pink-paragraph {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#blue-div {
+    color: blue;
+    font-size: 36px;
+}
+
+.pink-paragraph.cooler-paragrah {
+    font-size: 24px;
+}
+
+#green-div {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
